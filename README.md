@@ -1,6 +1,6 @@
 # 简易官网 EasyHomePage
 
-这个项目是我用来做我个人主页的，采用 Vue3 + Vite 构建。
+这个项目是[我](https://github.com/jason5ng32/EasyHomePage)用来做我个人主页的，采用 Vue3 + Vite 构建。
 
 代码挺粗糙的，毕竟我是个产品经理。但是，能用。
 
