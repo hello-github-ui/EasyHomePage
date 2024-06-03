@@ -3,16 +3,16 @@ name: Deploy Pages
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main branch
+      - name: Checkout master branch
         uses: actions/checkout@v4
         with:
-          ref: main
+          ref: master
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
